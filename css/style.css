@@ -28,6 +28,7 @@ img{
 #contact-info{
     text-align: center;
     margin-top: 30px;
+    margin-bottom: 50px;
 }
 
 #icon{
@@ -38,12 +39,14 @@ img{
     font-size: 40px;
     color: rgb(117, 53, 143);
     padding: 0 10px;
+    margin: 5px 5px;
 }
 
 .fas{
     font-size: 40px;
     color: rgb(117, 53, 143);
     padding: 0 10px;
+    margin: 5px 5px;
 }
 
 
