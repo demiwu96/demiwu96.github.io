@@ -46,10 +46,6 @@ img{
     padding: 0 10px;
 }
 
-footer{
-    background-color: white;
-    text-align: center;
-}
 
 @media screen and (max-width: 768px){
     .main{
