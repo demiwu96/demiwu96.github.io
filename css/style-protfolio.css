@@ -1,0 +1,75 @@
+body{
+    background-color: rgb(182, 143, 204);
+}
+
+.nav-color{
+    background-color: rgb(110, 41, 175);
+}
+
+h2{
+    color: rebeccapurple;
+}
+
+.container{
+    margin-top: 50px;
+}
+
+.main{
+    width: 1024px;
+    margin-top: 20px; 
+    background-color: white;
+    padding: 20px 20px;
+}
+
+.card-custom{
+    margin-bottom: 20px;
+}
+
+/* .border{
+    border-bottom: solid rgb(179, 179, 179) 2px;
+} */
+
+#contact-info{
+    text-align: center;
+    margin-top: 30px;
+}
+
+#icon{
+    display: inline-block;
+}
+
+.fab{
+    font-size: 40px;
+    color: rgb(117, 53, 143);
+    padding: 0 10px;
+}
+
+.fas{
+    font-size: 40px;
+    color: rgb(117, 53, 143);
+    padding: 0 10px;
+}
+
+footer{
+    background-color: white;
+    text-align: center;
+}
+
+@media screen and (max-width: 768px){
+    .main{
+        width: 100%;
+    }
+    
+    }
+    
+    @media screen and (max-width: 320px){
+        .main{
+            width: 100%;
+        }
+    }
+    
+    @media screen and (max-width: 168px){
+        .main{
+            width: 100%;
+        }
+    }
