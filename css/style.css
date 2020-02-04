@@ -11,7 +11,8 @@ h2{
 }
 
 .container{
-    margin-top: 50px;
+    padding-top: 100px;
+    padding-bottom: 30px;
 }
 
 .main{
@@ -39,14 +40,12 @@ img{
     font-size: 40px;
     color: rgb(117, 53, 143);
     padding: 0 10px;
-    margin: 5px 5px;
 }
 
 .fas{
     font-size: 40px;
     color: rgb(117, 53, 143);
     padding: 0 10px;
-    margin: 5px 5px;
 }
 
 
