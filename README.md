@@ -8,7 +8,7 @@ Welcome to my personal website.
 * CSS
 * bootstrap
 
-## Author
+## Credits
 Yu-Hsuan Wu
 
 ## Take a look
