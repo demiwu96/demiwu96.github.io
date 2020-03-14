@@ -12,7 +12,4 @@ Welcome to my personal website.
 Yu-Hsuan Wu
 
 ## Take a look
-[Click here](demiwu96.github.io)
-
-
-
+[Click here](https://demiwu96.github.io/index.html)
