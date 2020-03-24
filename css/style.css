@@ -11,8 +11,8 @@ h2{
 }
 
 .container{
-    padding-top: 100px;
-    padding-bottom: 30px;
+    padding-top: 80px;
+    padding-bottom: 20px;
 }
 
 .main{
@@ -32,8 +32,8 @@ img{
 
 #contact-info{
     text-align: center;
-    margin-top: 20px;
-    margin-bottom: 50px;
+    margin-top: 10px;
+    margin-bottom: 60px;
 }
 
 #icon{
