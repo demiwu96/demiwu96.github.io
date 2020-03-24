@@ -26,6 +26,10 @@ img{
     margin-bottom: 20px;
 }
 
+#intro{
+    padding: 10px 20px;
+}
+
 #contact-info{
     text-align: center;
     margin-top: 20px;
