@@ -1,7 +1,7 @@
 # Personal Website
 
 ## Description
-Welcome to my personal website. click the link at the bottom to see more information and my projects.
+Welcome to my personal website. Click the link at the bottom to see more information and my projects.
 
 ## Built with
 * HTML
