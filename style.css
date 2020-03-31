@@ -20,8 +20,8 @@ h1{
 }
 
 .expand {
-	-webkit-animation: expand 1s cubic-bezier(0.215, 0.610, 0.355, 1.000) both;
-	        animation: expand 1s cubic-bezier(0.215, 0.610, 0.355, 1.000) both;
+	-webkit-animation: expand 1.3s cubic-bezier(0.215, 0.610, 0.355, 1.000) both;
+	        animation: expand 1.3s cubic-bezier(0.215, 0.610, 0.355, 1.000) both;
 }
  @-webkit-keyframes expand {
     0% {
@@ -99,28 +99,63 @@ h1{
     object-fit: cover;
 }
 
+.flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+#profileDiv{
+  padding-top: 20px;
+}
+
 #about{
-    background-color: rgb(236, 189, 255);
-    padding-bottom: 20px;
+  background-color:#d1c4e9;
+  padding-bottom: 20px;
+}
+
+.intro{
+  padding: 10px;
 }
 
 h3{
     font-family: "Abril Fatface";
 }
 
+h5{
+  font-family: "Abril Fatface";
+}
+
+.tagTitle{
+  text-align: center;
+  font-size: 20px;
+  font-family: "Abril Fatface";
+}
+
+.tag{
+  margin: 5px;
+  cursor: default;
+  background-color: #9575cd;
+}
+
+.icon-custom{
+  color:#673ab7;
+  padding: 10px;
+  font-size: 35px;
+}
+
 /* portfolio section */
 #portfolio{
-    background-color: rgb(212, 158, 243);;
-    padding-top: 20px;
-    padding-bottom: 20px;
+  background-color: #b39ddb;
+  padding-top: 20px;
+  padding-bottom: 20px;
 }
 
 .more{
-    display: block;
-    padding: 5px;
+  display: block;
+  padding: 5px;
 }
 
 /* footer */
 .footer-custom{
-    padding: 0;
+  padding: 0;
 }
