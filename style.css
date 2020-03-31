@@ -14,7 +14,7 @@ header{
 h1{
     margin: 0;
     text-align: center;
-    color: #e5ccff;
+    color: #cdafee;
     padding-top: 150px;
     font-family: lobster;
 }
@@ -137,10 +137,19 @@ h5{
   background-color: #9575cd;
 }
 
+.tag:hover{
+  background-color: #9575cd;
+}
+
+.tagDiv{
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
 .icon-custom{
   color:#673ab7;
   padding: 10px;
-  font-size: 35px;
+  font-size: 38px;
 }
 
 /* portfolio section */
