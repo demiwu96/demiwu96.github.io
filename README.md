@@ -6,10 +6,10 @@ Welcome to my personal website.
 ## Built with
 * HTML
 * CSS
-* bootstrap
+* Materialize
 
 ## Credits
 Yu-Hsuan Wu
 
 ## Take a look
-[Click here](https://demiwu96.github.io/index.html)
+[Click here](https://demiwu96.github.io/)
