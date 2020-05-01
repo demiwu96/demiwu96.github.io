@@ -7,7 +7,7 @@ body{
 /* intro section */
 header{
     margin: 0;
-    background-image:url("https://2.bp.blogspot.com/-H3JXh2cIKHs/WuwLvnz19cI/AAAAAAAAMXs/-qySdr5zEcc-kcLC4arf5m5H3F_trN7sgCK4BGAYYCw/s1600/kristopher-roller-110203-unsplash-m.jpg");
+    background-image:url(image/background.jpg);
     height: 700px;
   }
 
@@ -99,6 +99,10 @@ h1{
     object-fit: cover;
 }
 
+#introP{
+  font-size: 16px;
+}
+
 .flex {
   display: flex;
   flex-wrap: wrap;
@@ -162,6 +166,7 @@ h5{
 .more{
   display: block;
   padding: 5px;
+  cursor: pointer;
 }
 
 /* footer */
