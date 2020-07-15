@@ -169,6 +169,14 @@ h5{
   cursor: pointer;
 }
 
+.cardText{
+  color: #4a148c;
+}
+
+.cardDescription {
+  font-weight: bold;
+}
+
 /* footer */
 .footer-custom{
   padding: 0;
