@@ -154,6 +154,8 @@ h5{
   color:#673ab7;
   padding: 10px;
   font-size: 38px;
+  position: relative;
+  top: 5px;
 }
 
 /* portfolio section */
